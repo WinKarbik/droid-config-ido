@@ -14,6 +14,7 @@ Requires:
 - droid-config-ido-flashing
 - droid-config-ido-bluez5
 - droid-hal-version-ido
+- droid-hal-ido-detritus
 
 # Hybris packages
 - libhybris-libEGL
